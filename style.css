@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(#039dfc 0%, #03fc8c 100%);
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px
+}
+
+.link {
+    float: right
+}
+iframe{margin: 30px}
+img{transition: transform.2s}
+img:hover{transform: scale(0.9)}
+h7{font-weight: bold;
+font-family: cursive;
+font-size: 50px}
+h6{margin: 35px;
+font-size: 30px;
+font-weight: 400;
+font-family: cursive}
